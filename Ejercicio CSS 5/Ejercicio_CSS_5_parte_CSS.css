@@ -1,0 +1,33 @@
+p.rside {
+    /* Añade los estilos */
+    padding: 8px;
+    border: 1px dashed black;
+    width: 200px;
+    margin-left: 14px;
+    margin-right: 14px;
+    float: right;   
+}
+p.lside {
+    /* Añade los estilos */
+    padding: 8px;
+    border: 1px dashed black;
+    width: 200px;
+    float: left; 
+}
+.display-inline-block{
+    display: inline-block; 
+}
+body{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+p{
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-right: 14px;
+    margin-left: 14px;
+    width: 50%;
+}
+div {
+    width: 50%; 
+}

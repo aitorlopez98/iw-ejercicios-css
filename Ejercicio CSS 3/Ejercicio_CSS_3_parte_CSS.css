@@ -1,0 +1,36 @@
+main{
+    font-family: Verdana;
+    margin: 0 auto;
+    width: 1100px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    border-bottom: 1px solid #87aff6;
+}
+#ultimo-encabezado{
+    border-bottom:1px solid #ea6584;
+}
+p{
+    font-size: 16px;
+    line-height: 30px;
+    padding: 6px;
+}
+#primer-parrafo{
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #0e0e0e;
+}
+.parrafo-par{
+    background-color: #d7d7d7;
+}
+.parrafo-impar{
+    background-color: #f6f6f6;
+}
+a{
+    color: #f00;
+}
+.enlaces-wiki{
+    color: #00f;
+}
